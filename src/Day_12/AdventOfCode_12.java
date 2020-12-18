@@ -51,4 +51,9 @@ public class AdventOfCode_12 {
         }
         System.out.println(Math.abs(mapResult.get("E") - mapResult.get("W")) + Math.abs(mapResult.get("N") - mapResult.get("S")));
     }
+
+    public static void part2(){
+        System.out.println();
+
+    }
 }
